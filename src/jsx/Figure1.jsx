@@ -62,201 +62,201 @@ function Figure1() {
       ['Node 4: United States', 'Node 5: Rep. of Korea', 0.9, '#ffd48e']
     ],
     nodes:
-      [{
-        color: '#009edb',
-        column: 0,
-        id: 'Node 0: Democratic Republic of the Congo',
-        name: 'Dem. Rep. of Congo'
-      }, {
-        color: '#009edb',
-        column: 0,
-        id: 'Node 0: Austria',
-        name: 'Austria',
-      }, {
-        color: '#009edb',
-        column: 0,
-        id: 'Node 0: Netherlands',
-        name: 'Netherlands',
-      }, {
-        color: '#009edb',
-        column: 1,
-        id: 'Node 1: China',
-        name: 'China'
-      }, {
-        color: '#009edb',
-        column: 1,
-        id: 'Node 1: Morocco',
-        name: 'Morocco'
-      }, {
-        color: '#009edb',
-        column: 1,
-        id: 'Node 1: Zambia',
-        name: 'Zambia'
-      }, {
-        color: '#009edb',
-        column: 1,
-        id: 'Node 1: Finland',
-        name: 'Finland'
-      }, {
-        color: '#009edb',
-        column: 1,
-        id: 'Node 1: Netherlands',
-        name: 'Netherlands'
-      }, {
-        color: '#009edb',
-        column: 1,
-        id: 'Node 1: Belgium',
-        name: 'Belgium'
-      }, {
-        color: '#009edb',
-        column: 1,
-        id: 'Node 1: Italy',
-        name: 'Italy',
-        offset: -5
-      }, {
-        color: '#009edb',
-        column: 1,
-        id: 'Node 1: Oman',
-        name: 'Oman',
-        offset: -10
-      }, {
-        color: '#009edb',
-        column: 1,
-        id: 'Node 1: Democratic Republic of the Congo',
-        name: 'Dem. Rep. of Congo'
-      }, {
-        color: '#009edb',
-        column: 2,
-        id: 'Node 2: China',
-        name: 'China'
-      }, {
-        color: '#009edb',
-        column: 2,
-        id: 'Node 2: Namibia',
-        name: 'Namibia'
-      }, {
-        color: '#009edb',
-        column: 2,
-        id: 'Node 2: Rep. of Korea',
-        name: 'Rep. of Korea'
-      }, {
-        color: '#009edb',
-        column: 2,
-        id: 'Node 2: Japan',
-        name: 'Japan'
-      }, {
-        color: '#009edb',
-        column: 2,
-        id: 'Node 2: Spain',
-        name: 'Spain'
-      }, {
-        color: '#009edb',
-        column: 2,
-        id: 'Node 2: Belgium',
-        name: 'Belgium'
-      }, {
-        color: '#009edb',
-        column: 2,
-        id: 'Node 2: United States',
-        name: 'United States'
-      }, {
-        color: '#009edb',
-        column: 3,
-        id: 'Node 3: Rep. of Korea',
-        name: 'Rep. of Korea'
-      }, {
-        color: '#009edb',
-        column: 3,
-        id: 'Node 3: Japan',
-        name: 'Japan'
-      }, {
-        color: '#009edb',
-        column: 3,
-        id: 'Node 3: Poland',
-        name: 'Poland'
-      }, {
-        color: '#009edb',
-        column: 3,
-        id: 'Node 3: China',
-        name: 'China'
-      }, {
-        id: 'Node 4: China',
-        column: 4,
-        color: '#009edb',
-        name: 'China',
-        offset: -20
-      }, {
-        id: 'Node 4: United States',
-        column: 4,
-        color: '#009edb',
-        name: 'United States',
-        offset: -10
-      }, {
-        id: 'Node 4: Germany',
-        column: 4,
-        color: '#009edb',
-        name: 'Germany'
-      }, {
-        color: '#009edb',
-        column: 4,
-        id: 'Node 4: Rep. of Korea',
-        name: 'Rep. of Korea'
-      }, {
-        color: '#009edb',
-        column: 4,
-        id: 'Node 4: Mexico',
-        name: 'Mexico'
-      }, {
-        color: '#009edb',
-        column: 4,
-        id: 'Node 4: Belgium',
-        name: 'Belgium'
-      }, {
-        color: '#009edb',
-        column: 4,
-        id: 'Node 4: Poland',
-        name: 'Poland'
-      }, {
-        color: '#009edb',
-        column: 5,
-        id: 'Node 5: United Arab Emirates',
-        name: 'United Arab Emirates'
-      }, {
-        color: '#009edb',
-        column: 5,
-        id: 'Node 5: Australia',
-        name: 'Australia'
-      }, {
-        color: '#009edb',
-        column: 5,
-        id: 'Node 5: United Kingdom',
-        name: 'United Kingdom'
-      }, {
-        color: '#009edb',
-        column: 5,
-        id: 'Node 5: United States',
-        name: 'United States',
-      }, {
-        color: '#009edb',
-        column: 5,
-        id: 'Node 5: Norway',
-        name: 'Norway'
-      }, {
-        color: '#009edb',
-        column: 5,
-        id: 'Node 5: Canada',
-        name: 'Canada'
-      }, {
-        color: '#009edb',
-        column: 5,
-        id: 'Node 5: Germany',
-        name: 'Germany'
-      }, {
-        color: '#009edb',
-        column: 5,
-        id: 'Node 5: Rep. of Korea',
-        name: 'Rep. of Korea'
-      }],
+    [{
+      color: '#009edb',
+      column: 0,
+      id: 'Node 0: Democratic Republic of the Congo',
+      name: 'Dem. Rep. of Congo'
+    }, {
+      color: '#009edb',
+      column: 0,
+      id: 'Node 0: Austria',
+      name: 'Austria',
+    }, {
+      color: '#009edb',
+      column: 0,
+      id: 'Node 0: Netherlands',
+      name: 'Netherlands',
+    }, {
+      color: '#009edb',
+      column: 1,
+      id: 'Node 1: China',
+      name: 'China'
+    }, {
+      color: '#009edb',
+      column: 1,
+      id: 'Node 1: Morocco',
+      name: 'Morocco'
+    }, {
+      color: '#009edb',
+      column: 1,
+      id: 'Node 1: Zambia',
+      name: 'Zambia'
+    }, {
+      color: '#009edb',
+      column: 1,
+      id: 'Node 1: Finland',
+      name: 'Finland'
+    }, {
+      color: '#009edb',
+      column: 1,
+      id: 'Node 1: Netherlands',
+      name: 'Netherlands'
+    }, {
+      color: '#009edb',
+      column: 1,
+      id: 'Node 1: Belgium',
+      name: 'Belgium'
+    }, {
+      color: '#009edb',
+      column: 1,
+      id: 'Node 1: Italy',
+      name: 'Italy',
+      offset: -5
+    }, {
+      color: '#009edb',
+      column: 1,
+      id: 'Node 1: Oman',
+      name: 'Oman',
+      offset: -10
+    }, {
+      color: '#009edb',
+      column: 1,
+      id: 'Node 1: Democratic Republic of the Congo',
+      name: 'Dem. Rep. of Congo'
+    }, {
+      color: '#009edb',
+      column: 2,
+      id: 'Node 2: China',
+      name: 'China'
+    }, {
+      color: '#009edb',
+      column: 2,
+      id: 'Node 2: Namibia',
+      name: 'Namibia'
+    }, {
+      color: '#009edb',
+      column: 2,
+      id: 'Node 2: Rep. of Korea',
+      name: 'Rep. of Korea'
+    }, {
+      color: '#009edb',
+      column: 2,
+      id: 'Node 2: Japan',
+      name: 'Japan'
+    }, {
+      color: '#009edb',
+      column: 2,
+      id: 'Node 2: Spain',
+      name: 'Spain'
+    }, {
+      color: '#009edb',
+      column: 2,
+      id: 'Node 2: Belgium',
+      name: 'Belgium'
+    }, {
+      color: '#009edb',
+      column: 2,
+      id: 'Node 2: United States',
+      name: 'United States'
+    }, {
+      color: '#009edb',
+      column: 3,
+      id: 'Node 3: Rep. of Korea',
+      name: 'Rep. of Korea'
+    }, {
+      color: '#009edb',
+      column: 3,
+      id: 'Node 3: Japan',
+      name: 'Japan'
+    }, {
+      color: '#009edb',
+      column: 3,
+      id: 'Node 3: Poland',
+      name: 'Poland'
+    }, {
+      color: '#009edb',
+      column: 3,
+      id: 'Node 3: China',
+      name: 'China'
+    }, {
+      id: 'Node 4: China',
+      column: 4,
+      color: '#009edb',
+      name: 'China',
+      offset: -20
+    }, {
+      id: 'Node 4: United States',
+      column: 4,
+      color: '#009edb',
+      name: 'United States',
+      offset: -10
+    }, {
+      id: 'Node 4: Germany',
+      column: 4,
+      color: '#009edb',
+      name: 'Germany'
+    }, {
+      color: '#009edb',
+      column: 4,
+      id: 'Node 4: Rep. of Korea',
+      name: 'Rep. of Korea'
+    }, {
+      color: '#009edb',
+      column: 4,
+      id: 'Node 4: Mexico',
+      name: 'Mexico'
+    }, {
+      color: '#009edb',
+      column: 4,
+      id: 'Node 4: Belgium',
+      name: 'Belgium'
+    }, {
+      color: '#009edb',
+      column: 4,
+      id: 'Node 4: Poland',
+      name: 'Poland'
+    }, {
+      color: '#009edb',
+      column: 5,
+      id: 'Node 5: United Arab Emirates',
+      name: 'United Arab Emirates'
+    }, {
+      color: '#009edb',
+      column: 5,
+      id: 'Node 5: Australia',
+      name: 'Australia'
+    }, {
+      color: '#009edb',
+      column: 5,
+      id: 'Node 5: United Kingdom',
+      name: 'United Kingdom'
+    }, {
+      color: '#009edb',
+      column: 5,
+      id: 'Node 5: United States',
+      name: 'United States',
+    }, {
+      color: '#009edb',
+      column: 5,
+      id: 'Node 5: Norway',
+      name: 'Norway'
+    }, {
+      color: '#009edb',
+      column: 5,
+      id: 'Node 5: Canada',
+      name: 'Canada'
+    }, {
+      color: '#009edb',
+      column: 5,
+      id: 'Node 5: Germany',
+      name: 'Germany'
+    }, {
+      color: '#009edb',
+      column: 5,
+      id: 'Node 5: Rep. of Korea',
+      name: 'Rep. of Korea'
+    }],
     keys: ['from', 'to', 'weight', 'color']
   }];
 
@@ -268,7 +268,7 @@ function Figure1() {
     <div className="app">
       {dataFigure && (
       <ChartSankey
-        column_labels_1={['Extraction', 'Processing', 'Manufacturing of parts', 'End users']}
+        column_labels_1={['Ore exports', 'Processing', 'Manufacturing of parts', 'End users']}
         column_labels_2={['Cobalt<br />ore', 'Cobalt<br />hydroxide', 'Battery<br />materials', 'Cell<br />components', 'Electric<br />vehicles']}
         data={dataFigure}
         data_type="percentage"
