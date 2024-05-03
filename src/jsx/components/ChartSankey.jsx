@@ -66,7 +66,7 @@ function SankeyChart({
           fontFamily: 'Inter',
           fontSize: '12px',
           fontWeight: 300,
-          lineHeight: '17px'
+          lineHeight: 'normal'
         },
         text: `<em>Source:</em> ${source} based on <a href="https://comtradeplus.un.org/">Comtrade data</a>. ${note ? (`<br /><em>Note:</em> <span>${note}</span>`) : ''}`,
         useHTML: true,
@@ -330,8 +330,8 @@ function SankeyChart({
         style: {
           color: '#231f20',
           fontSize: '16px',
-          fontWeight: 700,
-          lineHeight: '22px'
+          fontWeight: 500,
+          lineHeight: 'normal'
         },
         text: subtitle,
         x: 0,
@@ -341,9 +341,9 @@ function SankeyChart({
         margin: 125,
         style: {
           color: '#231f20',
-          fontSize: '26px',
+          fontSize: '22px',
           fontWeight: 700,
-          lineHeight: '30px'
+          lineHeight: 'normal'
         },
         text: title,
         widthAdjust: -144,
