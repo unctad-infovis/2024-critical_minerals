@@ -66,7 +66,7 @@ function SankeyChart({
           fontFamily: 'Inter',
           fontSize: '12px',
           fontWeight: 300,
-          lineHeight: 'normal'
+          lineHeight: '14.4px'
         },
         text: `<em>Source:</em> ${source} based on <a href="https://comtradeplus.un.org/">Comtrade data</a>. ${note ? (`<br /><em>Note:</em> <span>${note}</span>`) : ''}`,
         useHTML: true,
@@ -78,7 +78,7 @@ function SankeyChart({
         events: {
           load() {
             const chart = this;
-            chart.renderer.image('https://static.dwcdn.net/custom/themes/unctad-2024-rebrand/Blue%20arrow.svg', 15, 15, 40, 40).add();
+            chart.renderer.image('https://static.dwcdn.net/custom/themes/unctad-2024-rebrand/Blue%20arrow.svg', 15, 15, 44, 43.88).add();
             const fromPoints = [10, chart.chartWidth / 5, chart.chartWidth / 5 + (1 * (chart.chartWidth / 5)) - 8, chart.chartWidth / 5 + (2 * (chart.chartWidth / 5)) - 17, chart.chartWidth / 5 + (3 * (chart.chartWidth / 5)) - 25, chart.chartWidth / 5 + (4 * (chart.chartWidth / 5)) - 35];
             chart.customLines = [];
             (fromPoints).forEach((customLine) => {
@@ -314,7 +314,7 @@ function SankeyChart({
             title: {
               style: {
                 fontSize: '22px',
-                lineHeight: '26px'
+                lineHeight: '26.4px'
               }
             }
           },
@@ -331,7 +331,7 @@ function SankeyChart({
           color: '#231f20',
           fontSize: '16px',
           fontWeight: 500,
-          lineHeight: 'normal'
+          lineHeight: '19.2px'
         },
         text: subtitle,
         x: 0,
@@ -343,7 +343,7 @@ function SankeyChart({
           color: '#231f20',
           fontSize: '22px',
           fontWeight: 700,
-          lineHeight: 'normal'
+          lineHeight: '26.4px'
         },
         text: title,
         widthAdjust: -144,
