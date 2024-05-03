@@ -110,8 +110,9 @@ function SankeyChart({
                     y: chart.plotTop - 45
                   }).css({
                     fontFamily: 'Inter',
-                    fontSize: '12',
-                    fontWeight: 600
+                    lineHeight: '14.4px',
+                    fontSize: '12px',
+                    fontWeight: 700
                   }).add()
                 );
               });
@@ -134,8 +135,8 @@ function SankeyChart({
                     y: chart.plotTop - 30
                   }).css({
                     fontFamily: 'Inter',
-                    lineHeight: 11,
-                    fontSize: 11
+                    lineHeight: '13.2px',
+                    fontSize: '11px'
                   }).add()
                 );
               });
@@ -331,23 +332,24 @@ function SankeyChart({
           color: '#231f20',
           fontSize: '16px',
           fontWeight: 500,
-          lineHeight: '19.2px'
+          lineHeight: '19.2px',
         },
-        text: subtitle,
-        x: 0,
+        useHTML: true,
+        text: `<div style="height: 10px;"></div>${subtitle}`,
+        x: 0
       },
       title: {
         align: 'left',
-        margin: 125,
         style: {
           color: '#231f20',
           fontSize: '22px',
           fontWeight: 700,
-          lineHeight: '26.4px'
+          lineHeight: '26.4px',
         },
         text: title,
         widthAdjust: -144,
-        x: 50,
+        x: 54,
+        y: 20
       },
       tooltip: {
         backgroundColor: '#fff',
